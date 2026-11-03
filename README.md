@@ -1,224 +1,157 @@
 <div align="center">
 
-# 👋 Hi, I'm Mohamed Bakhyet
+# Mohamed Bakhyet
 
-### 💻 .NET Backend Developer | ASP.NET Core | C# | SQL Server
+### .NET Backend Developer · C# · ASP.NET Core · SQL Server
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=MOE-BK&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+Building reliable, maintainable and scalable backend systems.
 
 <p>
   <a href="https://github.com/MOE-BK">
-    <img src="https://img.shields.io/badge/GitHub-MOE--BK-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-MOE--BK-181717?style=flat-square&logo=github" alt="GitHub"/>
   </a>
+  <img src="https://komarev.com/ghpvc/?username=MOE-BK&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views"/>
 </p>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About
 
-I'm **Mohamed Bakhyet**, a Computer Science student and aspiring **.NET Backend Developer from Egypt 🇪🇬**.
+I'm **Mohamed Bakhyet**, a Computer Science student and **.NET Backend Developer from Egypt 🇪🇬**, focused on building backend applications with **C#, ASP.NET Core, Entity Framework Core, and SQL Server**.
 
-I enjoy building web applications and backend systems using **C#, ASP.NET Core, Entity Framework Core, and SQL Server**.
+My approach is centered around understanding the problem first, designing a clean solution, and then implementing software that is:
 
-I'm continuously improving my skills in software development, backend architecture, databases, and problem solving through practical projects.
+- Maintainable
+- Testable
+- Secure
+- Scalable
+- Performance-conscious
+- Easy to understand and extend
 
-### 🚀 Currently focusing on
-
-- 🔹 C# & Object-Oriented Programming
-- 🔹 ASP.NET Core MVC
-- 🔹 ASP.NET Core Web API
-- 🔹 Entity Framework Core
-- 🔹 SQL Server
-- 🔹 RESTful APIs
-- 🔹 Authentication & Authorization
-- 🔹 Clean Code & Software Architecture
-- 🔹 Git & GitHub
+I'm continuously strengthening my knowledge of backend engineering, software architecture, databases, APIs, authentication, and system design through practical projects.
 
 ---
 
-## 🛠️ Tech Stack
-
-### 💻 Backend
-
-<div align="left">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="45" alt="C#" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="45" alt=".NET" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="45" alt="ASP.NET Core" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="Python" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="Java" />
-
-</div>
-
-### 🗄️ Database
-
-<div align="left">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="45" alt="SQL Server" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="MySQL" />
-
-</div>
-
-### 🌐 Frontend
-
-<div align="left">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="HTML5" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="CSS3" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="JavaScript" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="45" alt="Bootstrap" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="React" />
-
-</div>
-
-### 🔧 Tools
-
-<div align="left">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="Git" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="GitHub" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="45" alt="Visual Studio" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="VS Code" />
-
-</div>
-
----
-
-## 📌 Featured Projects
-
-### 🎓 Online Course Management System
-
-A web-based course management platform built with **ASP.NET Core MVC**.
-
-**Technologies:**
-
-`C#` `ASP.NET Core MVC` `Entity Framework Core` `SQL Server` `Bootstrap`
-
-🔗 [View Project](https://github.com/MOE-BK/Online-Course-Management-System)
-
----
-
-### 🛒 Product Management System
-
-A complete product management application implementing CRUD operations, categories, image uploads, validation, search, filtering, sorting, and pagination.
-
-**Technologies:**
-
-`C#` `ASP.NET Core MVC` `Entity Framework Core` `SQL Server` `Bootstrap`
-
-🔗 [View Project](https://github.com/MOE-BK/Product-Management-System)
-
----
-
-## 📚 Currently Learning
+## Engineering Focus
 
 ```text
-ASP.NET Core
-     │
-     ├── MVC
-     ├── Web API
-     ├── Entity Framework Core
-     ├── Authentication & Authorization
-     ├── JWT
-     ├── LINQ
-     └── REST APIs
-
-Database
-     │
-     ├── SQL Server
-     ├── Relationships
-     ├── Indexing
-     ├── Transactions
-     └── Query Optimization
+Backend Engineering
+├── C#
+├── ASP.NET Core
+│   ├── MVC
+│   ├── Web API
+│   ├── Middleware
+│   ├── Dependency Injection
+│   └── Configuration
+│
+├── Data Access
+│   ├── Entity Framework Core
+│   ├── LINQ
+│   ├── SQL Server
+│   ├── Relationships
+│   ├── Migrations
+│   └── Query Optimization
+│
+├── API Development
+│   ├── REST
+│   ├── DTOs
+│   ├── HTTP
+│   ├── Swagger / OpenAPI
+│   └── Error Handling
+│
+├── Security
+│   ├── Authentication
+│   ├── Authorization
+│   ├── JWT
+│   └── Secure Configuration
+│
+└── Software Engineering
+    ├── Clean Code
+    ├── SOLID
+    ├── Design Patterns
+    ├── Git
+    └── GitHub
 ```
 
 ---
 
-## 🎯 Goals
+## Technical Stack
 
-- 🚀 Become a professional .NET Backend Developer
-- 🏗️ Build scalable and maintainable backend systems
-- 🔐 Learn advanced authentication and security
-- ☁️ Learn cloud deployment and DevOps
-- 🧪 Improve testing and software quality
-- 🤝 Contribute to real-world projects
+### Backend
 
----
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="45"/>
+</p>
 
-## 📊 GitHub Statistics
+`C#` · `.NET` · `ASP.NET Core` · `MVC` · `Web API` · `REST`
 
-<div align="center">
+### Data & Persistence
 
-<img src="https://github-readme-stats.vercel.app/api?username=MOE-BK&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub Stats" />
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="45"/>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=MOE-BK&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="170" alt="Top Languages" />
+`SQL Server` · `Entity Framework Core` · `LINQ` · `IQueryable` · `Migrations`
 
-</div>
+### Frontend
 
----
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="45"/>
+</p>
 
-## 🔥 GitHub Streak
+`HTML5` · `CSS3` · `JavaScript` · `Bootstrap` · `Razor`
 
-<div align="center">
+### Tools
 
-<img src="https://streak-stats.demolab.com?user=MOE-BK&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/>
+</p>
 
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MOE-BK&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/MOE-BK/MOE-BK/output/snake.svg" alt="Snake Animation" />
-
-</div>
+`Git` · `GitHub` · `Visual Studio` · `VS Code` · `Swagger`
 
 ---
 
-## 🌐 Connect With Me
+# Featured Projects
 
-<div align="center">
+## 🎓 Online Course Management System
 
-<a href="https://github.com/MOE-BK">
-<img src="https://img.shields.io/badge/GitHub-MOE--BK-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
+A full-stack educational management application built with **ASP.NET Core MVC**.
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
+### Engineering Highlights
 
-<a href="YOUR_FACEBOOK_URL">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-</a>
+- MVC architecture
+- Entity Framework Core
+- SQL Server
+- Entity relationships
+- ViewModels
+- Model Binding
+- Server-side validation
+- Data Annotations
+- CRUD operations
+- Search and filtering
+- File upload
+- Razor Views
+- Dependency Injection
+- Bootstrap UI
 
-<a href="YOUR_INSTAGRAM_URL">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-</a>
+**Stack**
 
-</div>
+`C#` `ASP.NET Core MVC` `EF Core` `SQL Server` `Bootstrap`
+
+→ **[View Repository](https://github.com/MOE-BK/Online-Course-Management-System)**
 
 ---
 
-<div align="center">
+## 🛒 Product Management System
 
-### 💡 "Building today, learning every day, improving continuously."
-
-⭐ Feel free to explore my repositories and follow my journey.
-
-</div>
+A production-style CRUD application focused on product
